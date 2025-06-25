@@ -1,6 +1,7 @@
 # 📈 House Prices Prediction
 
-![Vista Previa del Proyecto](images/HousePrediction.jpg)
+![image](https://github.com/user-attachments/assets/cb113294-d87e-4074-9ac5-e43796a84547)
+
 
 ### Resumen del Proyecto
 > Un modelo de machine learning para la predicción de precios de venta de inmuebles.
